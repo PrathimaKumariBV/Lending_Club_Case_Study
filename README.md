@@ -1,7 +1,7 @@
 # Lending Club Case Study Project
 
 ## Problem Statement
-''' Assuming that we are working for Lending Club (LC) which is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. When the company receives the loan application, it has to make a decision for loan approval based on applicant's profile.'''
+'''Lending Club (LC) which is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. When the company receives the loan application, it has to make a decision for loan approval based on applicant's profile.The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.'''
 
 ## Table of Contents
 
